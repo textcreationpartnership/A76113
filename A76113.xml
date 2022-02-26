@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mrs. Wardens observations upon her husbands reverend speech in the presence of certaine gentlewomen of Ratcliffe and Wapping.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76113</idno>
+            <idno type="STC">Wing B114</idno>
+            <idno type="STC">Thomason E115_20</idno>
+            <idno type="STC">ESTC R22220</idno>
+            <idno type="EEBO-CITATION">99871666</idno>
+            <idno type="PROQUEST">99871666</idno>
+            <idno type="VID">156024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156024)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mrs. Wardens observations upon her husbands reverend speech in the presence of certaine gentlewomen of Ratcliffe and Wapping.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: J. B.</note>
+                  <note>An anti-Puritan satire, occasioned by "The speech of a warden to the fellowes of his company .. by Antibrownistus Puritanomastix" (1642).</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: ye 5th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speech of a warden to the fellowes of his company.</term>
+               <term>Puritans --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156024:1" rendition="simple:additions"/>
+            <head>M<hi rend="sup">rs</hi>. Wardens OBSERVATIONS Upon Her HUSBANDS Reverend SPEECH In the preſence of certaine Gentle<g ref="char:EOLhyphen"/>women of RATCLIFFE and WAPPING.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE right Worſhipfull Mr. WAR<g ref="char:EOLhyphen"/>DEN, calling for his flowred Sattin-ſleeves with the Canvas-backe, his Wife perceived by that, and the bruſhing of his Demicaſter, it was <hi>Hall</hi>-day. His <hi>Breeches</hi> were Velvet, intayled to the Heyres male of his Family, ever ſince the <hi>Scottiſhman</hi> begg'd the Wardrobe. Thus put into Print (his Garters compoſed into a true-loves knot, and his Shooes ſhining to the terrour of poore people) away Hee trots, with as much
+<pb n="2" facs="tcp:156024:2"/>
+grace is an <hi>Hartfordſhire</hi>-horſe, leaving his thrice reverend Wife with a penny-pot of <hi>Alligant</hi> and a toaſt in her hand: J ſay, his <hi>Thrice</hi> reverend Wife, as ſhoe had beene ſometimes a <hi>Schoole-Miſtreſſe,</hi> now a <hi>Midwife,</hi> and Mrs. <hi>Warden.</hi>
+            </p>
+            <p>Shee had ſcarce likt her lippes after the firſt glaſſe, but five or ſixe of her Daughters from <hi>Rat<g ref="char:EOLhyphen"/>cliffe</hi> and <hi>Wapping,</hi> came to offer their Egges and Muskodell unto her. They had lately delivered a <hi>Petition</hi> concerning their opinions in redreſſe of matters in State, and had elected Mr. WARDEN (ſince the ſame of his <hi>Speech</hi> had ſpred him) to be their Spokeſman when occaſion ſhould offer.</p>
+            <p>Now after ſome three or foure Quarts, and a little bandy talke the Egges provoked, one of them very demurely riſing drops a <hi>Wapping</hi> curtſie, ſim<g ref="char:EOLhyphen"/>pers twice or thrice, caſt up her ſquints, and begins (with a looke like skim'd Milke) as morally as the Song of <hi>Towle, Towle, Towle, gentle Bell for a ſoule, &amp;c.</hi> to bee very Religiouſly angry with the King and a Malignant party of Nobility, Clergie, Jud<g ref="char:EOLhyphen"/>ges, Gentry, and Reprobate Cavaliers; nay, and in truth it is feared (ſaith ſhee) that three parts of the Kingdome have their eyes blinded with a kind of Duty and Conſcience, and what is the roote of all this unrighteouſneſſe, but that abhominable Prophane, Superſtitious, Idolatrous, Babiloniſh, and conjuring booke of Common —. Heere her face grew black, and ſhe ſate downe to take breath: whileſt another of the Nimphes, called Gammer <hi>Toad-fiſh</hi> ſtarts up in her place, and cryes: Nay, Mother, there be ſome that bluſh not to talke of a <hi>Perogative,</hi> and I know not what, as if wee of the
+<pb n="3" facs="tcp:156024:2"/>
+Elect could ſpeake Treaſon; Nay, (prophane wretches) there want not ſome that dare laugh and gibe at Mr. <hi>War<g ref="char:EOLhyphen"/>den</hi> himſelfe, and his thrice-endowed <hi>Speech,</hi> at our <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> too, though it were penned by as Zealous a Brewers Clarke, as ever pray'd in <hi>Hebrew.</hi> With that the very an<g ref="char:EOLhyphen"/>cient Gentlewoman (in a kind of anger, like an Ape when it is mocked) throwes a cleane Partlet upon her ſhoul<g ref="char:EOLhyphen"/>ders, and neſtling in her Chaire like a Beare, that is to ſhow trickes, after three or foure mops and mowes, thus beſpoke attention.</p>
+            <p>Moſt pure and choſen of the Times, my Daughters and Companions in <hi>Predeſtination,</hi> I know you will not doubt that truth, which a moſt Learned man and friend of ours, hath very ignorantly and impudently ſet forth, that <hi>Democricy, Ariſtocricy, &amp;c.</hi> (he might have added <hi>Hypocri<g ref="char:EOLhyphen"/>ſie</hi>) are as much from God, as <hi>Monarchy.</hi> By which poſi<g ref="char:EOLhyphen"/>tion (to ſpeake truth) hee ſhewes his wiſdome in his Ig<g ref="char:EOLhyphen"/>norance by proving <hi>nothing.</hi> It may hold that a <hi>Stable,</hi> or an houſe of <hi>Office</hi> are places, and as ancient as <hi>Churches;</hi> therefore as Sacred and proper to teach in. And by the ſame beliefe (when He ſhall but pleaſe to ſay it) are we to obey and confide in our own opinions before all <hi>things.</hi> Which inference and your aſcertion throwes me very pregnantly upon my Husbands argument of the <hi>Malitia.</hi>
+            </p>
+            <p>The <hi>Malitia</hi> (deare Daughters and Siſters of the <hi>Pint</hi>) hath already beene moſt faithfully handled by one great <hi>Obſervator,</hi> and not unlearnedly by my <hi>Husband,</hi> on which I raiſe my firſt obſervation. That, as the Philoſophers have a <hi>Maxime, we are borne for our Country,</hi> ſo the <hi>Law<g ref="char:EOLhyphen"/>yers</hi> have a Rule, <hi>That every man is next to himſelfe:</hi> By which it will follow (and muſt) If men be bound either to hazard their <hi>Lives,</hi> or <hi>words</hi> for their <hi>Country,</hi> that <hi>Leg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>talionis,</hi> their <hi>Countrey</hi> is bound to hazard their <hi>Eſtates,
+<pb n="4" facs="tcp:156024:3"/>
+Wives,</hi> and <hi>Children</hi> to requite and uphold them; for what are their eſtates, wives, and children, if not protected and ſecured theirs? So that to an eaſie judgement it will ap<g ref="char:EOLhyphen"/>peare, the <hi>Militia</hi> is but a mutuall bond and enterchange of mens eſtates and affections, and (as that worthy lover of his King ſaith) a very legall invention to keepeth City loyall to the King, and to make the King confide in the City. Beſide the great and unknowne benefit it bringeth to <hi>Feather-makers, Brokers,</hi> and other dutifull Subjects, whereas the <hi>Commiſsion of Array</hi> is another thing, and if any be ſo preſumptuous to think it <hi>legall,</hi> yet by the ſame Author we are informed, there is an <hi>equity</hi> in the <hi>Law</hi> be<g ref="char:EOLhyphen"/>yond the <hi>letter,</hi> by w<hi rend="sup">ch</hi> we may diſpence with our <hi>eſtates</hi> and <hi>conſciences</hi> as we pleaſe, believe what we liſt, and take up new <hi>Opinions</hi> and <hi>Armes,</hi> as we ſhall thinke fitting for Church or Common-wealth. Nor ſtand we bound (an happineſſe of theſe preſent times before any other) to confide in any ſuch expoſition of Judges or Lawyers be<g ref="char:EOLhyphen"/>fore our own: But as I have often heard my learned and double-combed Husband ſay, Oh what a flouriſhing Common-wealth ſhould we ſee, if it were contrived in<g ref="char:EOLhyphen"/>to <hi>Halls</hi> and <hi>Companies,</hi> and govern'd by <hi>Wardens</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ſters?</hi> Indeed this would come very neere that Modell of <hi>Church government</hi> laid down by that moſt hypocriticall and ſeditious <hi>Fox</hi> of the Church, who begot the <hi>Proteſta<g ref="char:EOLhyphen"/>tion proteſted</hi> (pardon me Elect Members of the <hi>Conven<g ref="char:EOLhyphen"/>ticle</hi>) they be <hi>Hieroglyphick</hi> termes to expreſſe his zeale, learning, and boldneſſe by. And now I am come ſo neere the <hi>Church,</hi> I will place my obſervation upon my <hi>Huſ<g ref="char:EOLhyphen"/>bands</hi> point as it ſtands, and only peep in at the window, becauſe I know you are all <hi>Gentlewomen</hi> of the function, and ſhewed your abilities in all thoſe places by him men<g ref="char:EOLhyphen"/>tioned. It is nothing what language their <hi>Liturgie</hi> is in,
+<pb n="5" facs="tcp:156024:3"/>
+for they confeſſe the moſt unlearned may know enough to be ſaved by: <hi>Ergo,</hi> Learning is needleſſe, &amp; if needleſſe, why not <hi>prophane?</hi> Nay I gather further thus: If learning were either neceſſary or convenient, the <hi>Scriptures</hi> would injoyne it as it doth other things that are ſo, but the moſt unlearned may be ſaved, nay are ſaved; <hi>Ergo,</hi> Learning is neither neceſſary nor convenient: and ſo from the <hi>major</hi> conſequently to the <hi>minor;</hi> if not <hi>Learning,</hi> neither <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> nor <hi>Sence.</hi> For as that man of Revelations Mr. <hi>Greene</hi> proves it fully, <hi>Ignorance</hi> and <hi>Noiſe,</hi> are markes ſufficient enough wherby to know our <hi>Election:</hi> and the other with the ſanctified Lungs, Mr. <hi>Hunt,</hi> in his <hi>tale of a Tub,</hi> both maintaineth and maketh good, <hi>Learning</hi> to be a meere trouble and vexation to <hi>Religion.</hi> By which reaſons weo can (if it pleaſe us) as eaſily prove it as lawfull for <hi>women</hi> as <hi>men</hi> to be <hi>Biſhops</hi> (if <hi>Biſhops</hi> were lawfull at all) which wee muſt deny. And therefore J hope it ſhall not need much breath to prove them <hi>Antichriſtian,</hi> where it is ſo orthodoxly beleeved already; not becauſe of their <hi>eſtates</hi> and <hi>honours</hi> (for <hi>riches</hi> and <hi>honour</hi> are not to be deſpiſed, if placed upon the right <hi>Saints</hi>) but becauſe they will not reſigne them to us and our righteous <hi>ſeed,</hi> who ought to inherit the Earth. And here againe, wee have juſt cauſe to vent out <hi>holy</hi> malice againſt the <hi>Lawes</hi> for putting a <hi>prophane</hi> bridle on us; but thankes be given, the bowels of our <hi>hope</hi> is ſomewhat inlarged.</p>
+            <p>The <hi>Anabaptiſts</hi> moſt excellently deny a great part, if not almoſt all the <hi>Scriptures</hi> that make againſt them any way, and do not we as religiouſly leave out divers <hi>Epiſtles</hi> making againſt us, or call them <hi>Apocryphal?</hi> By which <hi>Spirit,</hi> I hope it is no hard thing to prove a <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> or <hi>Sta<g ref="char:EOLhyphen"/>ble,</hi> or any <hi>hole,</hi> places moſt proper to our <hi>doctrine</hi> &amp; <hi>con<g ref="char:EOLhyphen"/>verſation;</hi> for it is <hi>Religion</hi> makes a <hi>church,</hi> not the <hi>Church</hi> Religion; therefore any place may be made a <hi>Church.</hi>
+               <pb n="6" facs="tcp:156024:4"/>
+Beſides you know we congregate together in the Spirit, to feele as well as heare; and I pray, in what Church of our oppoſites have you that free conveniency? Then for the univerſality of it, what Church can be more univerſall for <hi>Simpliciſme, Dotagiſme,</hi> and <hi>Hypocri<g ref="char:EOLhyphen"/>ſiſme?</hi>
+            </p>
+            <p>As for the Babyloniſh Rags and Antichriſtian Ward<g ref="char:EOLhyphen"/>rop, let us leave them to the Kirke of <hi>Scotland</hi> and <hi>Am<g ref="char:EOLhyphen"/>ſterdam;</hi> their Surplices to make ſarkes, and their Copes to make cuſhions: Onely our obſervation voluntarily here thruſts it ſelfe in, in which I muſt heartily admire our brothers of Scotland, that at their firſt comming hi<g ref="char:EOLhyphen"/>ther, they could forget (for what it had beene for them to remember a greater matter?) and over-looke all this needleſſe trumpery in the Church, when they begged the leades of it: Which if I could but beleeve they aſ<g ref="char:EOLhyphen"/>ſay'd, I ſhould thinke their modeſty not the leſſe meri<g ref="char:EOLhyphen"/>torious, though they hardly miſt.</p>
+            <p>Now concerning the pearle Hatband my moſt ever-Round-headed Husband yawnes at in his Speech, you ſhall ſee it, but truly I confeſſe I never wore it with that pride and delight ſince he compared it to Popiſh beades, a word ſo unnaturall to me, that verily I muſt drinke the other cup to reconcile my ſtomacke; but let me tell you ingeniouſly, it is more for the Popes ſake and the King of <hi>Spaines,</hi> then the Religion meerely it ſelfe; for in<g ref="char:EOLhyphen"/>ſooth there be many principles in that Religion which we doe not deny for wholſome and Orthodox, onely we ſcorne to owne them from the Jeſuites, our owne inven<g ref="char:EOLhyphen"/>tions being the onely and infallible rule of all our <hi>Faith, Hope,</hi> and <hi>Charity:</hi> As firſt, that Church holdeth <hi>Igno<g ref="char:EOLhyphen"/>rance</hi> the Mother of <hi>Devotion,</hi> an Article of our Faith. Then they have their <hi>Revelations, Viſions, Diſſentions,</hi>
+               <pb n="7" facs="tcp:156024:4"/>
+ſo have we. They have private <hi>Shrifts,</hi> ſo we. They call it a <hi>Veniall ſinne</hi> with a ſiſter, and in caſe of neceſſity can forgive a Neighbours wife, ſo we. They allow <hi>Depo<g ref="char:EOLhyphen"/>ſing</hi> and <hi>regulating of Princes</hi> by tumults and other wayes, ſo doe wee. They endeavour to domineere over <hi>Church</hi> and <hi>State,</hi> ſo would wee. They hatch <hi>Factions,</hi> and ſay it is good fiſhing in troubled ſtreames, ſo do we. And laſtly, they <hi>deny</hi> all this in plaine words, but <hi>grant</hi> it in effects, and ſo doe wee.</p>
+            <p>And although we cannot endure a Surplice, or Croſſe, the Popes Bulls, nor his fiercer beaſts the Jeſuites, yet wee hold it lawfull by the ſame vertue of equivocations, and mentall reſervations, to cheat, ſweare, and lye with any that is not one of us, nay even among our ſelves, if there be an holy cauſe. And to ſay which is the beſt ſub<g ref="char:EOLhyphen"/>ject, or moſt honeſt, the Ieſuites or we, would be a very hard queſtion, if wee were ſuffered to make our owne lawes: Yet by my Husbands leave, though he ſpeake in the abundance of his good will to the advancement of the holy Brethren, me thinks it would be a more heaven<g ref="char:EOLhyphen"/>ly ſight to ſee Mr. <hi>Howe,</hi> or the grave <hi>Obſervator</hi> himſelf in his <hi>Barre-gowne,</hi> mounted upon the ſteps at the Ban<g ref="char:EOLhyphen"/>queting houſe in <hi>White-hall,</hi> expounding Chapters to the <hi>Courtiers</hi> and <hi>Cavaleers,</hi> and to have all the Privie Coun<g ref="char:EOLhyphen"/>cell choſen out of the Elect, the Pentioners Lay doctors, and the Guard devout Elders; then for Lord <hi>Chamber<g ref="char:EOLhyphen"/>laine,</hi> Groome of the ſtoole, and Bed-chamber (places indeed moſt conſonant to women) ſome of the Holy Siſters, who received their education againſt the world, the fleſh, and the Devill in the <hi>Zion</hi> of <hi>New-England,</hi> that both the King and State might the more ſecurely confide in their Continence and purity. Let us all fling up the whites of our eyes in an holy hope, that the ſtrong
+<pb n="8" facs="tcp:156024:5"/>
+breathing of the ſpirit may ſtir up ſome worthy inſtru<g ref="char:EOLhyphen"/>ments to ſay <hi>Amen</hi> to the worke.</p>
+            <p>But to draw to a concluſion, becauſe I perceive by the fervent twinkling of your eies, and ardent licking of your lips, you would be at your devotions, I ſhall but wag my petticote at the firſt of his two laſt reaſons concerning <hi>Ireland.</hi> And I obſerve that the ſpirit doth never leave us deſtitute of ſanctified ſhifts to over-reach our adver<g ref="char:EOLhyphen"/>ſaries the Proteſtants; for if we be conſtrained to break in knavery or beggery, yet we ſtill have ſome refuge or land of <hi>Promiſe</hi> to flye to. Yet ſincerely for living in <hi>Ireland</hi> (though I confeſſe the advantage great wee have wrought of it and the preſent times) I know not what to ſay, becauſe no venemous beaſt will live there; nor need we care, ſince <hi>New-England</hi> (as I verily beleeve) was found out to that purpoſe: For the deſigne there I will ſpeake little now, becauſe (as the caſe ſtandeth) for my part, I had rather all the Souldiers were in <hi>Hull</hi> then in <hi>Ireland;</hi> for if the King once take that, by the helpe of his loving and dutifull Subjects (as he calleth them) it will put the Brethren to a great many of hard texts and tedious prayers, if it doe not breake the heart of our Conventicle: And what jealouſie and feare can be like that? I appeale to any Reverend Round-head that is not a Cuckold (if there be ſuch an one,) therefore it is high time to beſtirre us, (and ſo pleaſe you Miſtris <hi>Spritſayle</hi> but lend me the Chamber-pot) we will have the other quart, and I will conclude, as the ſame Gentleman be<g ref="char:EOLhyphen"/>gan, applying all in theſe words, that as our caſe is not like <hi>Scotlands,</hi> ſo <hi>Scotlands</hi> never was, nor (I thinke) can be ever like ours.</p>
+            <closer>
+               <signed>
+                  <hi>Dixi.</hi> J. B.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
